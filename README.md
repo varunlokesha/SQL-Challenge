@@ -5,8 +5,8 @@
 ## Technologies
 
 SQL
-MySQL
+<br>MySQL
 
 ## Source
 
-Problem Source [Leetcode](https://leetcode.com/)
+Problem Source - [Leetcode](https://leetcode.com/)
